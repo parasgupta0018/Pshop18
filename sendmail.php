@@ -17,9 +17,6 @@ $mail->SMTPSecure = 'ssl';
 $mail->SMTPAuth = true;
 $mail->Host = 'smtp.gmail.com';
 $mail->Port = 465;
-$mail->Username = 'bhaigupta0018@gmail.com';
-$mail->Password = 'paras&bhai';
-$mail->setFrom('bhaigupta0018@gmail.com');
 $mail->FromName = 'pshop18';
 $mail->addAddress($email);
 $mail->WordWrap = 50;       //Sets word wrapping on the body of the message to a given number of characters
