@@ -13,7 +13,7 @@ A Prototype E-commerce site using PHP and SQL database.
   
 ## Tech Stack
 
-**Client:** HTML, CSS, JS, JQuery, Bootstrap
+**Client:** HTML, CSS, JS, JQuery, Bootstrap & Materialize CSS
 
 **Server:** PHP
 
